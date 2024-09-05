@@ -3,7 +3,7 @@ title: Indie Game Developer's Organization
 feature_text: |
   ## About IGDO
   To meet the demands of the growing interest in game development. The organization aims to provide a safe and immersive environment for students to learn and hone their game development skills, create projects for portfolios, develop a community where students can obtain information and assistance on subjects related to game development, and provide a place where individuals can showcase their strengths and experience as game developers. 
-feature_image: "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L2pvYjEwMjEtYmctMDYuanBn.jpg"
+feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Indie Game Developer's Organization is a community at NIU for people in Computer Science, Visual arts, and Sound design who want to learn and or talk about making videogames!"
 ---
 # Fall 2024 Goals
