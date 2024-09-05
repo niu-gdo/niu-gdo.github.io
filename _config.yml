@@ -122,8 +122,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Game Developers Library
-  url: https://niu-gdo.github.io/game-developers-library/
+- title: Resources
+  url: /resources/
 - title: Blog
   url: /blog/
 # - title: Search
