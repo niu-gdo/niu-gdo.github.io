@@ -2,16 +2,15 @@
 title: Indie Game Developer's Organization
 feature_text: |
   ## About IGDO
-  To meet the demands of the growing interest in game development. The organization aims to provide safe and immersive environment for students to learn and hone their game development skills, create projects for portfolios, develop a community where students can obtain information and assistance on subjects related to game development, and provide a place where individuals can showcase their strengths and experience as game developers. 
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  To meet the demands of the growing interest in game development. The organization aims to provide a safe and immersive environment for students to learn and hone their game development skills, create projects for portfolios, develop a community where students can obtain information and assistance on subjects related to game development, and provide a place where individuals can showcase their strengths and experience as game developers. 
+feature_image: "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L2pvYjEwMjEtYmctMDYuanBn.jpg"
+excerpt: "Indie Game Developer's Organization is a community at NIU for people in Computer Science, Visual arts, and Sound design who want to learn and or talk about making videogames!"
 ---
-<br />
 # Fall 2024 Goals
 
 The organization aims to provide safe and immersive environment for students to learn and hone their game development skills, create projects for portfolios, develop a community where students can obtain information and assistance on subjects related to game development, and provide a place where individuals can showcase their strengths and experience as game developers.
 
-{% include figure.html image="https://cdn-images-1.medium.com/max/2600/1*jMDG7pTIaVeP5bQnE1RuXg.png?width=700&auto=webp&quality=80&disable=upscale" caption="Stock photo" width="300" height="800" %}
+{% include figure.html image="https://cdn.discordapp.com/attachments/1077426620522053715/1280914639496155233/IMG_3205.jpg?ex=66db21b8&is=66d9d038&hm=eee7dc26c9c6311bbeb9ea4b665da2f797236e439183ffcba9338714a667e9f4&" caption="Our Poster during the involvement fair 2024" width="300" height="800" %}
 
 ## Fall 2024 Schedule
 This semester will focus on game development core concepts. For people interested in the group project it will be taking a back seat until further notice, as we will be focusing on getting more people ready to work on it.  
