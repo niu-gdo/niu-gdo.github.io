@@ -64,7 +64,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Blog of IGDO" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -95,8 +95,8 @@ lang: en-us # Set the site language
 title: "Welcome to NIU's Game Development Club!" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description:  "The Landing page for the Game Developer club at NIU" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
-baseurl: "/"
+url: "https://niu-gdo.github.io/Website" # Site url, also used in jekyll-seo-tag
+baseurl: ""
 repo: "https://github.com/niu-gdo/Website"
 email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -122,8 +122,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-# - title: Elements
-#   url: /elements/
+- title: Game Developers Library
+  url: https://niu-gdo.github.io/game-developers-library/
 - title: Blog
   url: /blog/
 # - title: Search
