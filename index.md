@@ -21,7 +21,7 @@ The below schedule is subject to change, this should be used to get an idea of w
     <thead>
       <tr>
         <th>Week of</th>
-        <th>Abstract</th>
+        <th>Events</th>
         <th>Notes:</th>
       </tr>
     </thead>
