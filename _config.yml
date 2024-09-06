@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-us # Set the site language
 title: "Welcome to NIU's Game Development Club!" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo@256.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo@256px.png" # Site logo, also used in jekyll-seo-tag
 description:  "The Landing page for the Game Developer club at NIU" # Site description and default description, also used in jekyll-seo-tag
 url: "https://niu-gdo.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/Website/"
