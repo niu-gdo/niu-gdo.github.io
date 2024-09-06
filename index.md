@@ -8,9 +8,9 @@ excerpt: "Indie Game Developer's Organization is a community at NIU for people i
 ---
 # Fall 2024 Goals
 
-The organization aims to provide safe and immersive environment for students to learn and hone their game development skills, create projects for portfolios, develop a community where students can obtain information and assistance on subjects related to game development, and provide a place where individuals can showcase their strengths and experience as game developers.
+The organization aims to provide a safe and immersive environment for students to learn and hone their game development skills, create projects for portfolios, develop a community where students can obtain information and assistance on subjects related to game development, and provide a place where individuals can showcase their strengths and experience as game developers.
 
-{% include figure.html image="https://cdn.discordapp.com/attachments/1077426620522053715/1280914639496155233/IMG_3205.jpg?ex=66db21b8&is=66d9d038&hm=eee7dc26c9c6311bbeb9ea4b665da2f797236e439183ffcba9338714a667e9f4&" caption="Our Poster during the involvement fair 2024" width="300" height="800" %}
+{% include figure.html image="https://cdn.discordapp.com/attachments/1077426620522053715/1280914639496155233/IMG_3205.jpg?ex=66db21b8&is=66d9d038&hm=eee7dc26c9c6311bbeb9ea4b665da2f797236e439183ffcba9338714a667e9f4&" caption="Our Poster during the Involvement Fair 2024" width="300" height="800" %}
 
 ## Fall 2024 Schedule
 This semester will focus on game development core concepts. For people interested in the group project it will be taking a back seat until further notice, as we will be focusing on getting more people ready to work on it.  
@@ -43,7 +43,7 @@ The below schedule is subject to change, this should be used to get an idea of w
       </tr>
       <tr>
         <td>9/19</td>
-        <td>Introduction to Programming Concepts and c# Programming</td>
+        <td>Introduction to Programming Concepts and C# Programming</td>
         <td></td>
       </tr>
       <tr>
@@ -111,7 +111,7 @@ The below schedule is subject to change, this should be used to get an idea of w
 <br/>
 <br/>
 
-Please Checkout and Join IGDO's [huskihub](https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home) Page! It it how NIU knows we are an active and attended club (more engagement gets us more resources from NIU)
+Please check out and Join IGDO's [Huskie Hub](https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home) Page! It is how NIU knows we are an active and attended club (more engagement gets us more resources from NIU)
 
 <style>
   table{
