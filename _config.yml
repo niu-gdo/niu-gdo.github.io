@@ -95,7 +95,7 @@ title: "Welcome to NIU's Game Development Club!" # Site name or title, also used
 logo: "/assets/logos/logo@256px.png" # Site logo, also used in jekyll-seo-tag
 description:  "The Landing page for the Game Developer club at NIU" # Site description and default description, also used in jekyll-seo-tag
 url: "https://niu-gdo.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/Website/"
+baseurl: "/"
 email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
