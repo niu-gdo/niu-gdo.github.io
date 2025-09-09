@@ -92,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-us # Set the site language
 title: "Welcome to NIU's Game Development Club!" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo@256px.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description:  "The Landing page for the Game Developer club at NIU" # Site description and default description, also used in jekyll-seo-tag
 url: "https://niu-gdo.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -107,14 +107,10 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  144: '/assets/logos/logo@144px.webp'
+  180: '/assets/logos/logo@180px.webp'
+  512: '/assets/logos/logo@512px.webp'
+  1024: '/assets/logos/logo@1024px.webp'
 
 # 9. Site navigation
 navigation_header:
