@@ -17,7 +17,7 @@ Follow-along project (Spring 2024) by [Miguel Williams](https://miguelwilliams.d
 
 The Game Developer's Library (GDL) is a repository of articles which serve to educate readers on independent game development. Articles, guides, and tutorials about game development — be it engine-specific guides, general development strategies, or even lower-level concepts in computer graphics — find a home here.
 
-With articles written by our very own [Jake Rogers](https://explosiveeggshells.github.io/), [Marceline Gallegos](https://www.linkedin.com/in/marceline-gallegos-461249309/overlay/contact-info/ 'mar-sa-l-een guy-ya-go-s'), and Chris Dejong.
+With articles written by our very own [Jake Rogers](https://explosiveeggshells.github.io/), [Marceline Gallegos](https://www.linkedin.com/in/marceline-gallegos-461249309/overlay/contact-info/ 'mar-sa-l-een guy-ya-go-s'), and [Chris Dejong](https://www.linkedin.com/in/chris-dejong-123456789/){: target="_blank"}.
 
 # [Item Drop game](https://github.com/Migs/Item_Drop_CharacterController/tree/main)
 
