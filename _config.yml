@@ -118,6 +118,8 @@ navigation_header:
   url: /
 - title: Resources
   url: /resources/
+- title: Game Developers Library
+  url: /game-developers-library/
 - title: Blog
   url: /blog/
 # - title: Search
