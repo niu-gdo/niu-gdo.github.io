@@ -11,4 +11,4 @@ This semester we will be focusing on rebuilding our community and getting more p
 ## Stay connected!
 Please check out and Join IGDO's [Huskie Hub](https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home) Page! It is how NIU knows we are an active and attended club (more engagement gets us more resources from NIU)
 
-Also join our [Discord](https://discord.gg/WKpXzfbk8H 'Link to join the IGDO discord server'){: target="_blank"}! This is where we will be posting updates, meeting links, and other resources.
+Also join our [Discord]({{site.discord}} 'Link to join the IGDO discord server'){: target="_blank"}! This is where we will be posting updates, meeting links, and other resources.
